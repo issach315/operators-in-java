@@ -1,0 +1,8 @@
+Operators in Java
+
+--->  Arithmetic Operators [  + ,  - , * ,  % ,   / ]
+
+---> Relational Operators  [<  ,  >  ,>=  ,  <= ]
+---> Comparison Operatiors [ == , =! ]
+---> Assignment operators [=  , += , *= ,  /=  , %= ]
+---> Logical operators [ && ||  NOT] 
