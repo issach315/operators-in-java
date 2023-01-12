@@ -6,3 +6,6 @@ Operators in Java
 ---> Comparison Operatiors [ == , =! ]
 ---> Assignment operators [=  , += , *= ,  /=  , %= ]
 ---> Logical operators [ && ||  NOT] 
+
+using the operators we can perform the java operations 
+like  oparand+operators =operation
